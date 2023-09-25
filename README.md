@@ -11,6 +11,7 @@ with R code file
 
 
 
-# Videos will be available at
-{https://www.youtube.com/@TSwithJDemetraandR}
+# Videos will be available on our YouTube channel
+
+https://www.youtube.com/@TSwithJDemetraandR
 
